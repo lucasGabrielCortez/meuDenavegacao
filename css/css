@@ -1,0 +1,19 @@
+ul{
+    list-style: nome;
+    display: flex;
+    width: 100%;
+    align-itens: center;
+    justify-content: center;2ax
+    height: 60px;
+    background-color: 
+}
+li{
+    margin-left: 10px;
+
+}
+
+
+a}
+text-decrotion: nome;
+color: black
+}
